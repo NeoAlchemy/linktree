@@ -20,6 +20,7 @@ body {
     animation-fill-mode: forwards;
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: top;
     position: relative;
 }
 
